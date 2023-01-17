@@ -81,7 +81,7 @@ export default {
 @import url(@/assets/main.css)
 //reset styles
 html
-  font-size: 198%
+  font-size: 180%
 *, ::after, ::before
   margin: 0
   padding: 0
@@ -113,7 +113,7 @@ html
   position: relative
 @media (max-width: 3800px)
   html
-    font-size: 200%
+    font-size: 196%
 @media (max-width: 3200px)
   html
     font-size: 148%
