@@ -79,6 +79,7 @@ export default {
 <style lang="sass">
 //импорт шрифтов
 @import url(@/assets/main.css)
+//reset styles
 html
   font-size: 198%
 *, ::after, ::before
@@ -91,6 +92,7 @@ html
   color: #333
   font-family: Kinopoisk
   font-weight: 400
+//
 .main-wrapper
   background: url("@/assets/image/header-bg.jpg") center / cover no-repeat
   min-height: 100vh
@@ -144,7 +146,7 @@ html
     font-size: 48%
 @media (max-width: 950px)
   html
-    font-size: 45%
+    font-size: 44%
 @media (max-width: 900px)
   html
     font-size: 39%
