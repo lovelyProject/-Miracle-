@@ -122,7 +122,7 @@ html
     font-size: 128%
 @media (max-width: 2200px)
   html
-    font-size: 98%
+    font-size: 90%
 @media (max-width: 1900px)
   html
     font-size: 86%
@@ -146,7 +146,7 @@ html
     font-size: 48%
 @media (max-width: 950px)
   html
-    font-size: 44%
+    font-size: 45%
 @media (max-width: 900px)
   html
     font-size: 39%
