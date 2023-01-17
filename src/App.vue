@@ -134,16 +134,16 @@ html
     font-size: 70%
 @media (max-width: 1422px)
   html
-    font-size: 60%
+    font-size: 50%
 @media (max-width: 1200px)
   html
-    font-size: 53%
+    font-size: 50%
 @media (max-width: 1140px)
   html
     font-size: 50%
 @media (max-width: 1050px)
   html
-    font-size: 48%
+    font-size: 45%
 @media (max-width: 950px)
   html
     font-size: 45%
